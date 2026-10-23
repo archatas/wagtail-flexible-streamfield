@@ -1,5 +1,9 @@
 # wagtail-flexible-streamfield
 
+[![PyPI version](https://img.shields.io/pypi/v/wagtail-flexible-streamfield)](https://pypi.org/project/wagtail-flexible-streamfield/)
+![License](https://img.shields.io/pypi/l/wagtail-flexible-streamfield)
+![Python versions](https://img.shields.io/pypi/pyversions/wagtail-flexible-streamfield)
+
 A Wagtail `StreamField` subclass that doesn't create new migrations when block configurations change.
 
 ## Installation
