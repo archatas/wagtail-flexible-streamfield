@@ -1,6 +1,6 @@
 [project]
 name = "wagtail-flexible-streamfield"
-version = "0.1.0"
+version = "0.2.0"
 authors = [
     { name="Aidas Bendoraitis", email="aidas@bendoraitis.lt" },
 ]
@@ -39,7 +39,7 @@ Homepage = "https://github.com/archatas/wagtail-flexible-streamfield"
 Issues = "https://github.com/archatas/wagtail-flexible-streamfield/issues"
 
 [tool.bumpversion]
-current_version = "0.1.0"
+current_version = "0.2.0"
 parse = "(?P<major>\\d+)\\.(?P<minor>\\d+)\\.(?P<patch>\\d+)"
 serialize = ["{major}.{minor}.{patch}"]
 search = "{current_version}"
